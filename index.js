@@ -64,7 +64,7 @@ app.post("/bfhl", (req, res) => {
     res.status(200).json({
       is_success: true,
       user_id: "aman_qureshi_25022004",  
-      email: "amanq7362@gmail.com",      
+      email: "amann.qureshi2022@vitstudent.ac.in",      
       roll_number: "22BCB0111",        
       odd_numbers,
       even_numbers,
